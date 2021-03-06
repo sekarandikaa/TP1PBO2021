@@ -1,0 +1,26 @@
+1903970
+Sekar Andika Putri
+
+Saya Sekar Andika mengerjakan evaluasi Tugas Praktikum 1 dalam mata kuliah
+Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan
+seperti yang telah dispesifikasikan. Aamiin.
+
+Kesulitan :
+- Memunculkan catalog barang pada Menu Utama
+- Memunculkan menu detail dari Menu Utama
+
+Hal baru yang dipelajari :
+- Membuat dynamic panel pada saat menampilkan barang di Menu Utama
+- Pemindahan dari form ke form lainnya
+- Hyperlink ke halaman website
+- Implementasi pencarian pada catalog barang
+
+Fitur yang dikerjakan :
+- Form login
+- User dapat login dan jika gagal muncul message box warning
+- Navigation bar, icon dan sesuai fungsi nya
+- Menampilkan data barang pada menu utama
+- Menu Detail barang yang dibeli
+- Dropdown pada sidebar kiri dan tombol cari
+- Search barang dan menampilkan nya
+- Saat Logout kembali ke halaman Login
